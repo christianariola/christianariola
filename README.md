@@ -1,4 +1,4 @@
-- Hi, I’m Christian 👋
+Hi, I’m Christian 👋
 
 <!---
 christianariola/christianariola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
